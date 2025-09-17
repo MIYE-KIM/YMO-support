@@ -1,0 +1,34 @@
+# mkdocs.yml
+site_name: YoungIn Mobility Support
+site_url: https://miye-kim.github.io/YMO-support/
+theme:
+  name: material
+  language: ko
+
+nav:
+  - 홈: index.md
+  - Go2:
+      - 모델 소개: go2/model.md
+      - 납품 교육 - 조종기/앱: go2/education.md 
+      - 개발 가이드: go2/develop_manual.md
+      - Q&A:
+        - 하드웨어: go2/Q&A/hardware.md
+        - 앱: go2/Q&A/app.md
+        - 개발: go2/Q&A/develop.md
+  - G1:
+      - 모델 소개: g1/model.md
+      - 납품 교육 - 조종기/앱: g1/education.md 
+      - 개발 가이드: g1/develop_manual.md
+      - Q&A:
+        - 하드웨어: g1/Q&A/hardware.md
+        - 앱: g1/Q&A/app.md
+        - 개발: g1/Q&A/develop.md
+  - Inspire:
+      - DFX- Ultimate C: inspire/dfx.md
+      - DFTP - Ultimate D: inspire/dftp.md
+  - Z1:
+      - 모델 소개: z1/model.md
+      - 하드웨어: z1/hardware.md
+      - 개발 가이드: z1/develop_manual.md
+  - A/S: after_service.md
+  - 기술 질문: qna.md
