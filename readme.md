@@ -29,8 +29,7 @@ YMO-support는 영인모빌리티 응용지원팀에서 운영하는 Unitree 제
 │   │       ├── app.md # 앱  
 │   │       ├── develop.md # 개발  
 │   │       └── hardware.md # 하드웨어  
-│   │   └── 개발용 참고자료 # 개발용 논문 및 깃허브   
-│   │       └── paper.md # 논문 및 깃허브  
+│   │   └── 개발용 참고자료 # 개발용 논문 및 깃허브     
 │   ├── go2  
 │   │   ├── develop_manual.md  
 │   │   ├── education.md  

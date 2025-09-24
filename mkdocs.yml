@@ -24,7 +24,7 @@ nav:
         - 앱: g1/Q&A/app.md
         - 개발: g1/Q&A/develop.md
       - 개발용 참고자료:
-        - 논문 및 깃허브: g1/Research_area/paper.md
+        - Behavior Foundation Model for Humanoid Robots: g1/Research_area/Behavior_Foundation_Model_for_Humanoid_Robots.md
   - Inspire:
       - DFX- Ultimate C: inspire/dfx.md
       - DFTP - Ultimate D: inspire/dftp.md
