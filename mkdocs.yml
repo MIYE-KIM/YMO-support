@@ -23,6 +23,8 @@ nav:
         - 하드웨어: g1/Q&A/hardware.md
         - 앱: g1/Q&A/app.md
         - 개발: g1/Q&A/develop.md
+      - 개발용 참고자료:
+        - 논문 및 깃허브: g1/Research_area/paper.md
   - Inspire:
       - DFX- Ultimate C: inspire/dfx.md
       - DFTP - Ultimate D: inspire/dftp.md
