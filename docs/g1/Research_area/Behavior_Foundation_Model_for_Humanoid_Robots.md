@@ -1,4 +1,4 @@
-## 🤖 Behavior Foundation Model for Humanoid Robots
+# 🤖 Behavior Foundation Model for Humanoid Robots
 
 휴머노이드 로봇 분야에서 주목할 만한 **최신 연구 두 편**을 소개합니다.  
 AI와 로봇 기술이 어떻게 결합되어 **실용적인 로봇 제어**로 발전하고 있는지를 보여주는 획기적인 연구입니다.
